@@ -1,5 +1,5 @@
 # Resources directory only for storing downloadable content
-resources
+resources/*
 !resources/README.md
 
 # General
