@@ -2,6 +2,9 @@
 resources/*
 !resources/README.md
 
+# Temp files listing usernames
+setup-scripts/user*.txt
+
 # General
 .DS_Store
 .AppleDouble
