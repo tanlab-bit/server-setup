@@ -21,5 +21,5 @@ fi
 # Create a user and adding into default group gpuuser
 useradd -g gpuuser -s /bin/bash -d /home/$1 -m $1
 # Set the password
-echo -e $1:$1 | chpasswd
+echo -e $1:asdfghjkl123 | chpasswd
 echo -e "[✔] Done! Created user with name" $1 "and added into group gpuuser >>>"
